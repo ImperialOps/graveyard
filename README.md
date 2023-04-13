@@ -1,2 +1,3 @@
-# graveyard
-Repository only exists to build throwaway skaffold images
+# Graveyard :skull_and_crossbones:
+
+Repository only exists to build throwaway Skaffold images.
